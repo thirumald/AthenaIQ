@@ -1,0 +1,1 @@
+{"updated":"2026-11-28T11:36:59Z","source":"NASA FIRMS, VIIRS 375 m active fire, last 2 days","bbox":[19.3,34.7,29.7,41.8],"fields":["lon","lat","date","time_utc","frp_mw","confidence","satellite","daynight"],"rows":[[26.2462,39.8642,"2026-11-27","00:32",1.4,"n","N21","N"],[26.2448,39.8654,"2026-11-27","00:32",1.1,"n","N21","N"]]}
